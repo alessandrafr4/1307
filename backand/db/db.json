@@ -1,0 +1,34 @@
+{
+  "livros": [
+    {
+      "name": "yr",
+      "autor": "yty",
+      "editoraid": "",
+      "categoria": "tutr",
+      "id": 1
+    }
+  ],
+  "categorias": [
+    {
+      "name": "rtte",
+      "editoracod": "ett",
+      "id": 1
+    }
+  ],
+  "editoras": [
+    {
+      "name": "rst",
+      "codigo": "rts",
+      "id": 1
+    }
+  ],
+  "autores": [
+    {
+      "name": "fasdf",
+      "idadeid": "asdfas",
+      "editoracod": "asdfas",
+      "categoria": "asdf",
+      "id": 1
+    }
+  ]
+}
